@@ -1,0 +1,19 @@
+{
+  "name": "shikhar",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cat-me": "^1.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
